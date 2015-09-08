@@ -12,5 +12,8 @@ jdk: oraclejdk7
 notifications:
   email: false
 
+before_install:
+ - chmod +x gradlew
+
 script:
   - ./gradlew clean build
