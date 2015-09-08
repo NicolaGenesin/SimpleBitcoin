@@ -1,0 +1,15 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimaryDark">@color/lightbluevulcan</item>
+    </style>
+    <style name="AppTheme.TextAppearance" parent="android:TextAppearance">
+        <item name="fontPath">fonts/lig.otf</item>
+    </style>
+    <style name="AppTheme.TextAppearance.Bold" parent="AppTheme.TextAppearance">
+        <item name="fontPath">fonts/reg.otf</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>
