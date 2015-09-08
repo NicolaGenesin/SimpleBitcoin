@@ -18,3 +18,4 @@ Dependencies:
     compile 'com.squareup.retrofit:retrofit:1.9.0'
     compile 'uk.co.chrisjenx:calligraphy:2.1.0'
     compile 'com.github.lecho:hellocharts-library:1.5.7@aar'
+    
